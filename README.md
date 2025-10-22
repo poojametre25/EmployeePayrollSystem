@@ -135,7 +135,6 @@ Project Highlights for Evaluation
 
 ✨ Integrated with MySQL using JDBC
 
-✨ Professional GitHub Presentation (Advantage to get top rank/certificate)
 
 Developed By
 
