@@ -2,7 +2,7 @@
 
 ## Project Overview
 The **Employee Payroll Management System** is a **Mini Project** desktop application that allows the admin to add, view, and delete employee records along with automatic salary calculations using allowances and deductions.  
-This project demonstrates Java Core concepts, OOP, JDBC connectivity, MySQL database operations, and GUI using Swing – making it ideal for **academic submission** and **professional portfolios**.
+This project demonstrates Java Core concepts, OOP, JDBC connectivity, MySQL database operations, and GUI using Swing 
 
 ---
 
